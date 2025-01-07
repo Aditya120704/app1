@@ -17,7 +17,7 @@ class MainActivity : AppCompatActivity() {
     lateinit var data:TextInputEditText
 
 
-    override fun onCreate(savedInstanceState: Bundle?) {git
+    override fun onCreate(savedInstanceState: Bundle?) {
 
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
